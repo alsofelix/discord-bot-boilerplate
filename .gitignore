@@ -1,0 +1,36 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env.example
+.env.*
+!.env.example
+
+# Build output
+dist/
+out/
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# IDE - WebStorm/IntelliJ
+.idea/
+
+# IDE - VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage
+coverage/
+*.lcov
+.nyc_output/
