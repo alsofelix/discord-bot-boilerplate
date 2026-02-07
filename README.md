@@ -1,6 +1,6 @@
 # Discord.js v14 Boilerplate
 
-A type-safe, batteries-included Discord bot boilerplate built with **Bun**, **TypeScript**, and **discord.js v14**. Features dynamic command/event loading, Drizzle ORM, and Docker support.
+A type-safe, all in one Discord bot boilerplate built with **Bun**, **TypeScript**, and **discord.js v14**. Features dynamic command/event loading, Drizzle ORM, and Docker support.
 
 ## Features
 
