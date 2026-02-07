@@ -6,7 +6,7 @@ A type-safe, batteries-included Discord bot boilerplate built with **Bun**, **Ty
 
 This is made using bun and discord.js v14, I've included one of the utils I have made for other bots for modals which i find quite useful.
 Additionally this boilerplate uses postgres for database support.
-I could add mongoose and mongo atlas support if you want.
+I could add mongoose and mongo atlas support if anyone wants.
 
 ## Getting Started
 
